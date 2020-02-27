@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/prePracticeTestFragment">
+
+    <fragment
+        android:id="@+id/prePracticeTestFragment"
+        android:name="com.march2succeed.march2succeed.practicetest.PrePracticeTestFragment"
+        android:label="PrePracticeTestFragment" >
+        <action
+            android:id="@+id/action_prePracticeTestFragment_to_generalScienceBannerFragment"
+            app:destination="@id/generalScienceBannerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/generalScienceBannerFragment"
+        android:name="com.march2succeed.march2succeed.practicetest.GeneralScienceBannerFragment"
+        android:label="fragment_general_science_banner"
+        tools:layout="@layout/fragment_general_science_banner" >
+        <action
+            android:id="@+id/action_generalScienceBannerFragment_to_generalScienceQuestionsFragment"
+            app:destination="@id/generalScienceQuestionsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/generalScienceQuestionsFragment"
+        android:name="com.march2succeed.march2succeed.practicetest.GeneralScienceQuestionsFragment"
+        android:label="fragment_general_science_questions"
+        tools:layout="@layout/fragment_general_science_questions" />
+</navigation>

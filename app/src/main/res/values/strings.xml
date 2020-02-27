@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">March2Succeed</string>
+
+    <string name="pre_practice_test_paragraph">
+        You are about to take the ASVAB practice test.  \n
+        This test will have 9 different sections to include: \n
+        \n
+        General Science \n
+        Arithmetic Reasoning \n
+        Word Knowledge \n
+        Paragraph Comprehension \n
+        Mathematical Knowledge \n
+        Electronics Information \n
+        Automotive Information \n
+        Shop Information \n
+        Mechanical Comprehension \n
+            Assembling Objects \n
+        \n
+        There is no time limit for this test; however, you should try to complete it within 2 hours. \n
+        \n
+        Do <b>NOT</b> use any outside resources to include: calculators, google, etc. \n
+        \n
+        This practice is for YOU and to see how you could do on the real test \n
+        \n
+        Good luck!
+    </string>
+
+    <string name="general_science_banner">
+        This is the GENERAL SCIENCE section. \n
+        \n
+        There will be 15 questions. \n
+        \n
+        Make sure your answers are final - there is no going back to redo previous questions!
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

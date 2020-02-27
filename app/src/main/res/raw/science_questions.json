@@ -1,0 +1,154 @@
+{
+  "science": {
+    "0": {
+      "question": "Which of these reduces friction?",
+      "choices": {
+        "0": "car brakes",
+        "1": "tire tread",
+        "2": "ball bearings",
+        "3": "sandpaper"
+      },
+      "answer": "ball bearings"
+    },
+    "1": {
+      "question": "Which of these undergoes metamorphosis?",
+      "choices": {
+        "0": "butterfly",
+        "1": "bacteria",
+        "2": "snake",
+        "3": "chicken"
+      },
+      "answer": "butterfly"
+    },
+    "2": {
+      "question": "Which of these is the best explanation of how a smooth round stone became smooth?",
+      "choices": {
+        "0": "continuous freezing and thawing",
+        "1": "volcanic action",
+        "2": "It fell off the side of a cliff.",
+        "3": "It was in a stream for a long time."
+      },
+      "answer": ""
+    },
+    "3": {
+      "question": "Mollusks typically have",
+      "choices": {
+        "0": "wings",
+        "1": "shells",
+        "2": "scales",
+        "3": "backbones"
+      },
+      "answer": "shells"
+    },
+    "4": {
+      "question": "Water droplets forming on the inside of a cold windshield is an example of",
+      "choices": {
+        "0": "evaporation",
+        "1": "conduction",
+        "2": "vaporization",
+        "3": "condensation"
+      },
+      "answer": "condensation"
+    },
+    "5": {
+      "question": "Marrow is a soft tissue found in the",
+      "choices": {
+        "0": "brain",
+        "1": "bones",
+        "2": "muscles",
+        "3": "ligaments"
+      },
+      "answer": "bones"
+    },
+    "6": {
+      "question": "Weight is a measure of a body’s",
+      "choices": {
+        "0": "energy",
+        "1": "momentum",
+        "2": "rotational equilibrium",
+        "3": "gravitational attraction to the Earth"
+      },
+      "answer": "gravitational attraction to the Earth"
+    },
+    "7": {
+      "question": "Which of these systems enable oxygen to reach an individual cell in the human body?",
+      "choices": {
+        "0": "digestive",
+        "1": "circulatory",
+        "2": "nervous",
+        "3": "excretory"
+      },
+      "answer": "circulatory"
+    },
+    "8": {
+      "question": "The changing of any kind of matter from one form to another absorbs or releases",
+      "choices": {
+        "0": "dust",
+        "1": "inertia",
+        "2": "gravity",
+        "3": "energy"
+      },
+      "answer": "energy"
+    },
+    "9": {
+      "question": "Citrus fruits include",
+      "choices": {
+        "0": "apples",
+        "1": "oranges",
+        "2": "bananas",
+        "3": "peaches"
+      },
+      "answer": "oranges"
+    },
+    "10": {
+      "question": "An example of kinetic energy is a",
+      "choices": {
+        "0": "car sitting up on blocks",
+        "1": "flag hanging on a flagpole",
+        "2": "pillow leaning against the back of a chair",
+        "3": "pendulum swinging in a grandfather clock"
+      },
+      "answer": "pendulum swinging in a grandfather clock"
+    },
+    "11": {
+      "question": "Which of the following can be spread from one person to another?",
+      "choices": {
+        "0": "allergy",
+        "1": "arthritis",
+        "2": "hepatitis",
+        "3": "epilepsy"
+      },
+      "answer": "hepatitis"
+    },
+    "12": {
+      "question": "Which of the following is NOT a part of an atom?",
+      "choices": {
+        "0": "neutron",
+        "1": "molecule",
+        "2": "electron",
+        "3": "proton"
+      },
+      "answer": "molecule"
+    },
+    "13": {
+      "question": "The pancreas is a",
+      "choices": {
+        "0": "cell",
+        "1": "gland",
+        "2": "cancer",
+        "3": "catalyst"
+      },
+      "answer": "gland"
+    },
+    "14": {
+      "question": "Why do we see different areas of the sky during the Fall versus the Spring?",
+      "choices": {
+        "0": "the Moon blocking part of the sky",
+        "1": "the daily rotation of Earth",
+        "2": "Earth’s tilt and its orbiting around the Sun",
+        "3": "stars’ extremely rapid motion in space"
+      },
+      "answer": "Earth’s tilt and its orbiting around the Sun"
+    }
+  }
+}
